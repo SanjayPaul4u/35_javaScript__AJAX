@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+         "v_name": "Brinjal",
+          "price": 100
+    },
+    {
+        "id": 2,
+         "v_name": "potato",
+          "price": 200
+    },
+    {
+        "id": 3,
+         "v_name": "tomato",
+          "price": 300
+    },
+    {
+        "id": 4,
+         "v_name": "chilli",
+          "price": 400
+    },
+    {
+        "id": 5,
+         "v_name": "kaliFlower",
+          "price": 500
+    }
+    ]
